@@ -1,0 +1,17 @@
+{
+  "name": "@algorandfoundation/test-oidc-canary",
+  "version": "0.0.0",
+  "description": "Test package. Do not depend on it.",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algorandfoundation/test-oidc-canary.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
